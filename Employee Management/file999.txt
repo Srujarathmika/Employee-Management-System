@@ -1,0 +1,7 @@
+Employee ID:999
+Employee Name     :srujana
+Father's Name     :srinivas
+Employee Contact  :9998887770
+Email Information :sruja@gmail.com
+Employee position :manager
+Employee Salary   :70000
